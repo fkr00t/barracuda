@@ -1,10 +1,10 @@
 # BARRACUDA - Advanced DoS Tool
 
-## 🚀 **BARRACUDA - Inspired by Original HULK**
+## 🚀 **BARRACUDA - Fork of HULK (Go Port)**
 
-**BARRACUDA** adalah tool DoS yang diinspirasi dan dibangun berdasarkan karya original **HULK** oleh **Barry Shteiman**. Tool ini menghormati dan melanjutkan warisan teknikal dari HULK original dengan fitur-fitur modern dan advanced.
+**BARRACUDA** adalah fork/port dari tool **HULK** (Python) milik **Barry Shteiman**, yang dikonversi ke **Go** dengan penambahan fitur dan peningkatan performa. Proyek ini tetap memberi kredit kepada pembuat aslinya dan fokus pada peningkatan di sisi konfigurasi, monitoring, dan koneksi.
 
-> **"Inspired by the original HULK utility by Barry Shteiman (http://sectorix.com)"**
+> Fork dari proyek HULK (Python) oleh Barry Shteiman (`http://sectorix.com`).
 
 ## 📋 **Fitur-Fitur BARRACUDA**
 
@@ -40,10 +40,10 @@
 ### **Quick Install**
 ```bash
 # Install langsung dari repository
-go install github.com/grafov/barracuda@latest
+go install github.com/fkr00t/barracuda@latest
 
 # Atau clone dan build manual
-git clone https://github.com/grafov/barracuda.git
+git clone https://github.com/fkr00t/barracuda.git
 cd barracuda
 go build -o barracuda barracuda.go advanced_attacks.go
 ```
@@ -312,6 +312,6 @@ Tool ini melanjutkan warisan teknikal dari HULK original dengan:
 
 **⚠️ DISCLAIMER: Use this tool responsibly and only for authorized testing purposes. The authors are not responsible for any misuse of this software.**
 
-**🕊️ In memory of the original HULK utility and its creator Barry Shteiman.**
+ 
  
 
