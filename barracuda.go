@@ -115,6 +115,11 @@ func init() {
 }
 
 func main() {
+	if len(os.Args) == 1 {
+		flag.Usage()
+		return
+	}
+
 	parseFlags()
 
 	if err := validateConfig(); err != nil {
