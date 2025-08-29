@@ -298,16 +298,7 @@ BARRACUDA is licensed under GPLv3. See LICENSE file for details.
 ## 🤝 **Credits & Acknowledgments**
 
 ### **Original Inspiration**
-**BARRACUDA** dibangun dengan inspirasi dan penghormatan kepada:
-
 **Original HULK utility by Barry Shteiman (http://sectorix.com)**
-
-Tool ini melanjutkan warisan teknikal dari HULK original dengan:
-- Modern Go implementation
-- Advanced features dan optimizations
-- Enhanced monitoring dan analytics
-- Multi-vector attack capabilities
-
 ---
 
 **⚠️ DISCLAIMER: Use this tool responsibly and only for authorized testing purposes. The authors are not responsible for any misuse of this software.**
