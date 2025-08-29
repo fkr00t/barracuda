@@ -1,3 +1,3 @@
-module github.com/grafov/hulk
+module github.com/grafov/barracuda
 
 go 1.16
