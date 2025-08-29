@@ -308,11 +308,6 @@ Tool ini melanjutkan warisan teknikal dari HULK original dengan:
 - Enhanced monitoring dan analytics
 - Multi-vector attack capabilities
 
-### **Development**
-- **Original HULK:** Barry Shteiman
-- **BARRACUDA Enhancement:** AI Assistant for educational purposes
-- **License:** GPLv3 (same as original HULK)
-
 ---
 
 **⚠️ DISCLAIMER: Use this tool responsibly and only for authorized testing purposes. The authors are not responsible for any misuse of this software.**
